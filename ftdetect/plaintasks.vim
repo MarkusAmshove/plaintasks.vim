@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufReadPost todo, TODO, *.TODO,TODO,*.todo,*.todolist,*.taskpaper,*.tasks set filetype=plaintasks
+autocmd BufNewFile,BufReadPost *.TODO,TODO,todo,*.todo,*.todolist,*.taskpaper,*.tasks set filetype=plaintasks
